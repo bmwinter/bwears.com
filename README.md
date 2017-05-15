@@ -6,6 +6,7 @@ Responsive: https://v4-alpha.getbootstrap.com/layout/grid/
 ## Header
 Brendan Winter
 Full Stack Developer & Mobile Application Developer becoming a Product Manager
+
 Background: https://static.pexels.com/photos/14676/pexels-photo-14676.png
 Parallax Scrolling
 * example: https://www.taylormccaslin.com/
